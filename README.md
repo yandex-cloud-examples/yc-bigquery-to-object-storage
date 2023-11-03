@@ -1,3 +1,5 @@
+# Экспорт данных из Google Big Query в Yandex Cloud Object Storage
+
 Данный скрипт производит экспорт выбранных таблиц из Google Big Query в Google Storage. После чего производит копирование экспортированных данных
 в Object Storage Яндекс Облака.
 Необходимые пререквизиты:
